@@ -1,1 +1,1 @@
-#include "hri/samd21a/include/sam.h"
+#include "samd21a/include/sam.h"
